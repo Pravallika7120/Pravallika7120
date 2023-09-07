@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Pravallika7120/Pravallika7120** is a ✨ _special_ ✨ repository 
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: S566797@nwmissouri.edu
 - ⚡ Fun fact: Joel
--->
+
